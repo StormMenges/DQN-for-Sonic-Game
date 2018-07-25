@@ -1,0 +1,12 @@
+gym
+
+[docker]
+docker
+
+[rest]
+docker
+pyyaml
+requests
+
+[retro]
+gym-retro

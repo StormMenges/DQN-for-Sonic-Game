@@ -1,0 +1,5 @@
+[console_scripts]
+retro-contest = retro_contest.__main__:main
+retro-contest-agent = retro_contest.agent:main
+retro-contest-remote = retro_contest.remote:main [retro]
+
