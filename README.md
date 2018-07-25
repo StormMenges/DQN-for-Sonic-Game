@@ -24,3 +24,4 @@ More Details can be found here :
 Due to the large size of the Q-arrays obtained from training, the files could not
 be included with this zip file.
 
+PLEASE NOTE : all elements inside the retro-contest file are not property of this repository holder and are property of OpenAI
